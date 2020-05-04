@@ -13,6 +13,17 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 ## Step 4
-Ende
+Get a ``||input:temperature|| block and place it in the value slot of ``||basic:show number||``. You can also make a temperature message if you want.
+
+```blocks
+forever(function() {
+    basic.showNumber(input.temperature())
+    basic.pause(1000)
+})
+```
+
+```ghost
+basic.showString("Hello!")
+```
 
 
