@@ -9,7 +9,10 @@ Probiere das System
 
 ## Step 3
 ```blocks
-basic.showNumber(3)
+input.onButtonPressed(Button.A, function () {
+    basic.showNumber(9)
+})
+
 ```
 ## Step 4
 Ende
