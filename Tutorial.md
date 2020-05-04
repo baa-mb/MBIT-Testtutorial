@@ -10,7 +10,7 @@ Probiere das System
 ## Step 3
 ```blocks
 input.onButtonPressed(Button.A, function () {
-    basic.showNumber(9)
+    basic.showNumber(19)
 })
 ```
 ## Step 4
