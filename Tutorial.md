@@ -1,7 +1,6 @@
-> Hier Code eintragen
 # Information zum Zufallszahl-Genertor
 Das ist die Überschrift
-## Step 1
+## Step 1 @fullscreen
 Legen die Ausgabe einer Zahl an!
 
 ## Step 2
