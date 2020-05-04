@@ -1,0 +1,17 @@
+> Gib deinen Code hier ein
+# Information zum Zufallszahl-Genertor
+Das ist die Überschrift
+## Step 1
+Legen die Ausgabe einer Zahl an!
+
+## Step 2
+Probiere das System
+
+## Step 3
+```blocks
+demo.coolStuff()
+```
+## Step 4
+Ende
+
+
