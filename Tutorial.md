@@ -9,7 +9,7 @@ Probiere das System
 
 ## Step 3
 ```blocks
-demo.coolStuff()
+basic.showNumber(3)
 ```
 ## Step 4
 Ende
