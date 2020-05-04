@@ -1,3 +1,9 @@
+input.onButtonPressed(Button.A, function () {
+    demo.coolStuff()
+})
 namespace demo {
-    export function coolStuff()
+    //% block
+    export function coolStuff() {
+        basic.showString("x")
+    }
 }
