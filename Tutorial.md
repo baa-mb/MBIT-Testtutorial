@@ -1,4 +1,4 @@
-> Gib deinen Code hier ein
+> Hier Code eintragen
 # Information zum Zufallszahl-Genertor
 Das ist die Überschrift
 ## Step 1
@@ -12,7 +12,6 @@ Probiere das System
 input.onButtonPressed(Button.A, function () {
     basic.showNumber(9)
 })
-
 ```
 ## Step 4
 Ende

@@ -11,9 +11,7 @@
         "README.md",
         "Tutorial.md"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "supportedTargets": [
         "microbit"
     ],
