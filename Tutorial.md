@@ -7,6 +7,8 @@ Legen die Ausgabe einer Zahl an!
 Probiere das System
 
 ## Step 3
+Das ist Schritt 333333
+
 ```blocks
 input.onButtonPressed(Button.A, function () {
     basic.showNumber(19)
