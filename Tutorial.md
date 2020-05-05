@@ -6,7 +6,7 @@
 
 Use the accelerometer and the screen to build a **Rock Paper Scissors** game that you can play with your friends!
 
-## Step 1: Hole ein shakeelement herein
+## Step 1: Hole ein Shakeelement herein
 
 Add a ``||input:on shake||`` block to run code when you shake the @boardname@.
 
