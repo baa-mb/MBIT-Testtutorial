@@ -19,7 +19,7 @@ input.onButtonPressed(Button.A, function () {
 Schritt 4 ....
 ```blocks
 input.onButtonPressed(Button.A, function () {
-    basic.showNumber(4)
+    basic.showNumber(44)
 })
 ```
 
