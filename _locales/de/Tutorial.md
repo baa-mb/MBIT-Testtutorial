@@ -22,7 +22,7 @@ input.onButtonPressed(Button.A, function () {
     basic.showNumber(44)
 })
 ```
-
+## Step 5
 ```ghost
 input.onButtonPressed(Button.A, function () {
     asic.showString("ghost!")
