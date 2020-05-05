@@ -1,6 +1,6 @@
 # Rock Paper Scissors
 
-## Introduction @unplugged
+## Introduction 
 
 ![Cartoon of the Rock Paper Scissors game](/static/mb/projects/a4-motion.png)
 
@@ -16,13 +16,13 @@ input.onGesture(Gesture.Shake, () => {
 })
 ```
 
-## Step 2 @fullscreen
+## Step 2
 
 Add a ``hand`` variable and place the ``||variables:set hand to||`` block in the shake event.
 
 ![A animation that shows how to create a variable](/static/mb/projects/rock-paper-scissors/newvar.gif)
 
-## Step 3 @fullscreen
+## Step 3 
 
 Add a ``||math:pick random||`` block to pick a random number from `1` to `3` and store it in the variable named ``hand``.
 
