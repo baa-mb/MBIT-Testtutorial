@@ -23,6 +23,7 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 ## Step 5
+Das ist Punkt 5
 ```ghost
 input.onButtonPressed(Button.A, function () {
     asic.showString("ghost!")
