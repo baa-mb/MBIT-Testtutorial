@@ -1,4 +1,3 @@
-
 > Diese Seite bei [https://baa-mb.github.io/test1/](https://baa-mb.github.io/test1/) öffnen
 
 ## Als Erweiterung verwenden
