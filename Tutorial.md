@@ -24,7 +24,9 @@ input.onButtonPressed(Button.A, function () {
 ```
 
 ```ghost
-basic.showString("ghost!")
+input.onButtonPressed(Button.A, function () {
+    asic.showString("ghost!")
+})
 ```
 
 
