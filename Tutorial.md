@@ -11,7 +11,7 @@ Das ist Schritt 333333
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
-    basic.showNumber(1)
+    basic.showNumber(3)
 })
 ```
 
@@ -19,12 +19,12 @@ input.onButtonPressed(Button.A, function () {
 Schritt 4 ....
 ```blocks
 input.onButtonPressed(Button.A, function () {
-    basic.showNumber(19)
+    basic.showNumber(4)
 })
 ```
 
 ```ghost
-basic.showString("Hello!")
+basic.showString("ghost!")
 ```
 
 
