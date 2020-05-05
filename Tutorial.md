@@ -11,7 +11,7 @@ Das ist Schritt 333333
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
-    basic.showNumber(3)
+    basic.showNumber(33)
 })
 ```
 
